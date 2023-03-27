@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi there! I'm a DevOps Engineer with a passion for automation and collaboration. Over the years, I've gained experience working with a variety of software development and operations tools, and have honed my skills in areas such as Continuous Integration/Continuous Deployment (CI/CD), software engineering, and monitoring.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My goal is to ensure that our customers' systems run smoothly, and I aim to be proactive in detecting and preventing issues before they occur.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<br>
 
+---
 
-[jekyll-organization]: https://github.com/jekyll
+<br>
+
+In this blog, I share my firsthand experiences as a DevOps Engineer, delving into topics such as CI/CD, Coding Practices, Monitoring, and more. My daily work involves utilizing various technologies, including GithubActions, Spring, Prometheus, and Grafana, to name a few.
